@@ -10,5 +10,6 @@ public class DigitOut {
             System.out.println(i);
             i++;
         }
+        // Комментарий 2
     }
 }
